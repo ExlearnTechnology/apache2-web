@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: add 2 numbers
         run: |
-        expr 2 + 3
+            echo "Exlearn Test"
